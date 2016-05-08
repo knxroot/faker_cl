@@ -1,0 +1,2 @@
+from chilean_rut import ChileanRut
+from chilean_phone import ChileanPhone
