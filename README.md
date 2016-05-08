@@ -4,6 +4,7 @@ A provider extension for the [Faker-Factory](https://pypi.python.org/pypi/fake-f
 
 ###Example:
 
+```python
 from faker import Factory
 fake = Factory.create('es_ES')
 from faker_cl import ChileanPhone, ChileanRut
@@ -20,3 +21,5 @@ print u"""Hi, my name is: {nombre}, mi chilean rut is {rut} and my mobile number
 	rut=fake.cl_rut(),
 	tel=fake.cl_mobile_phone()
 	)
+```
+
