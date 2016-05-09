@@ -1,6 +1,6 @@
 #Faker CL
 
-A provider extension for the [Faker-Factory](https://pypi.python.org/pypi/fake-factory) module. Faker CL is focus in Chile context.
+A provider extension for the [Faker-Factory](https://github.com/joke2k/faker) module. Faker CL is focus in Chile context.
 
 ###Example:
 
