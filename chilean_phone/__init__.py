@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-""" A simple Faker Chilean Phone Provider http://lh.2xlibre.net/locale/es_CL/"""
+""" A simple Faker Chilean Phone Provider """
 
 __author__ = "Gustavo Lacoste"
 
